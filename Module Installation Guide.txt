@@ -6,5 +6,6 @@ please install all the mentioned modules as instructed below:
 4)pip install wikipedia
 5)pip install google
 6)pip install smtplib
+7)pip install PyAudio. (IF IT SHOWS ERROR, DOWNLOAD ITS WHEEL FILE AND INSTALL IT THROUGH THAT WHEEL FILE, For further assistance regarding wheel installation you can search it on YouTube and Google)
 
 Now all your modules are ready to work.
