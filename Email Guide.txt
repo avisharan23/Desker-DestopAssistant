@@ -1,0 +1,6 @@
+At Line 56,
+Replace ('Your Email','Your Password') with the email id and password you want to login with.
+At Line 57,
+Replace ('Your Email') with the email address you logged in and want to send mail with.
+At Line 103, 
+Replace ('receiver@email.com') with the email address of the receiver.
