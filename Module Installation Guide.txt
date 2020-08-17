@@ -1,0 +1,10 @@
+please install all the mentioned modules as instructed below:
+
+1)Open cmd/Windows power Shell and enter following commands in given sequence
+2)pip install --upgrade pip
+3)pip install pyttsx3(TEXT TO SPEECH API)
+4)pip install wikipedia
+5)pip install google
+6)pip install smtplib
+
+Now all your modules are ready to work.
